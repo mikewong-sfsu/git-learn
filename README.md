@@ -17,7 +17,17 @@ There are several versions of the HVFQI to date:
 - HVFQI-52: The first (unused) digital version via the HVFQI-App, designed for children aged 0-3
 - HVFQI-58p: The first available digital version on the HVFQI-App, designed for children aged 0-3
 - HVFQI-59a: The HVFQI adapted for older participants with later onset CVI, aged 4-18
-- HVFQI-59ac: The HVFQI adapted for caregivers of older participants with later onset CVI, aged 4-18
+- HVFQI-59ac: The HVFQI adapted for carers of older participants with later onset CVI, aged 4-18
+
+## Localisation
+
+As part of the effort for international access, several versions of the HVFQI
+have been translated into different languages. Currently, versions of the
+HVFQI are available in English, Spanish, Portuguese, and Hebrew. Volunteer
+opthamologists and eye health care researchers have offered to translate the
+HVFQI to Chinese (traditional and simplified), Hindi, and Urdu to make the
+HVFQI accessible for their communities. Professional translators are being
+recruited for French, German, and to validate the work of the volunteers.
 
 ## References
 
