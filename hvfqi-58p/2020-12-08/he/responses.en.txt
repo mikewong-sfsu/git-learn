@@ -1,0 +1,21 @@
+Left
+Right
+
+Left
+Right
+Both
+
+Never
+Rarely
+Sometimes
+Often
+Always
+Not Applicable, Too Young
+Not Applicable, Too Old
+Not Applicable, Physical Condition
+
+Near
+Far
+
+Yes
+No

@@ -1,0 +1,25 @@
+
+# Responses (Respuestas)
+
+"Izquierda",
+"Derecha"
+
+"Izquierda",
+"Derecha",
+"Ambas cosas"
+
+
+"Nunca",
+"Casi nunca",
+"Algunas veces",
+"A menudo",
+"Siempre",
+"No corresponde, demasiado joven",
+"No corresponde, demasiado antiguo",
+"No corresponde, condición física"
+
+"Cerca",
+"Lejos"
+
+"Sí",
+"No" 

@@ -1,0 +1,52 @@
+#! /usr/bin/perl
+
+# Google Translate has a character limit for translation
+# 
+# First use the list-questionnaire or list-strategies utilities to list the
+# text for the questionnaire or strategies respectively.
+#
+# Then use this utility to print out chunks of the text to copy-and-paste into
+# Google Translate to generate initial versions for expert language editing.
+
+our $file = shift;
+
+our $chunks = [];
+our $buffer = '';
+
+open my $ifh, '<', $file or die "Can't read '$file' $!";
+while( <$ifh> ) {
+	if( length( $buffer ) + length( $_ ) >= 5000 ) {
+		push @$chunks, $buffer;
+		$buffer = '';
+	}
+	$buffer .= $_;
+}
+close $ifh;
+push @$chunks, $buffer;
+
+print <<EOF;
+File split into chunks ready for pasting into Google Translate. 
+
+Press 'n' to get the next chunk, 'b' to get the previous chunk, or 'q' to quit.
+EOF
+
+my $i = 0;
+do {
+	write_chunk( $i );
+	my $ch = getc( STDIN );
+	if   ( $ch eq 'n' && $i < $#$chunks ) { $i++; }
+	elsif( $ch eq 'b' && $i > 0         ) { $i--; }
+
+} while( $ch ne 'q' );
+
+# ============================================================
+sub write_chunk {
+# ============================================================
+	my $i = shift;
+	my $j = $i + 1;
+	open my $ofh, '>', 'chunk.txt' or die "Can't write 'chunk.txt' $!";
+	print $ofh $chunks->[ $i ];
+	close $ofh;
+	`cat chunk.txt | pbcopy`;
+	print STDERR "Chunk $j copied to clipboard, proceed to paste into Google Translate.\n";
+}

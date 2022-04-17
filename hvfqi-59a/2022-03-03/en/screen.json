@@ -1,0 +1,63 @@
+{
+	"title" : "About your child",
+	"questions" : [
+		{ 
+			"text" : "How many weeks into your pregnancy were you when you gave birth?",
+			"response" : {
+				"type" : "int"
+			}
+		},
+		{ 
+			"text" : "Were there any problems at the time of birth?",
+			"response" : {
+				"type" : "bool"
+			},
+			"follow" : {
+				"conditions" : [ true ],
+				"ups" : [
+					{
+						"text" : "If so, please describe:",
+						"response" : {
+							"type" : "text"
+						}
+					}
+				]
+			}
+		},
+		{ 
+			"text" : "Has your child had any conditions affecting the eyes or brain?",
+			"response" : {
+				"type" : "bool"
+			},
+			"follow" : {
+				"conditions" : [ true ],
+				"ups" : [
+					{
+						"text" : "If so, please describe:",
+						"response" : {
+							"type" : "text"
+						}
+					}
+				]
+			}
+		},
+		{ 
+			"text" : "Do you have any concerns about your child's vision?",
+			"response" : {
+				"type" : "bool"
+			},
+			"follow" : {
+				"conditions" : [ true ],
+				"ups" : [
+					{
+						"text" : "If so, what are they?",
+						"response" : {
+							"type" : "text"
+						}
+					}
+				]
+			}
+		}
+
+	]
+}

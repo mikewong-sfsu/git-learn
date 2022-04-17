@@ -1,0 +1,92 @@
+# Questions
+1 Does your child trip over toys and obstacles on the floor?
+2 Does your child have difficulty walking down stairs?
+3 Does your child trip at the edges of pavements going up?
+4 Does your child trip at the edges of pavements going down?
+5 Does your child appear to 'get stuck' at the top of a slide/hill?
+6 Does your child look down when crossing floor boundaries eg. Where lino meets carpet?
+7 Does your child leave food on the near or far side of their plate?
+7.1 On which side?
+8 Does your child leave food on the right side or left side of their plate?
+8.1 On which side?
+9 Does your child have difficulty finding the beginning of a line when reading?
+10 Does your child have difficulty finding the next word when reading?
+11 Does your child walk out in front of traffic?
+11.1 Which side?
+12 Does your child bump into doorframes or partly open doors?
+12.1 Which side?
+13 Does your child miss pictures or words on one side of a page?
+13.1 Which side?
+14 Does your child have difficulty seeing scenery from a moving vehicle?
+15 Does your child have difficulty seeing things which are moving quickly, such as small animals or children, moving water, or cursor on a computer screen?
+15.1 Which quickly moving thing(s) does your child have difficulty in seeing? You may select one or more answers for this question.
+16 Does your child avoid watching fast moving and/or prefer to watch slow moving TV?
+17 Does your child have difficulty catching a ball?
+18 Does your child have difficulty seeing something which is pointed out in the distance?
+19 Does your child have difficulty finding a close friend or relative who is standing in a group?
+20 Does your child have difficulty finding an item in a supermarket eg. finding the breakfast cereal they want?
+21 Does your child get lost in places where there is a lot to see eg. a crowded shop?
+22 Does your child get lost in places which are well known to them? e.g. school
+23 Does your child have difficulty locating an item of clothing in a pile of clothes?
+24 Does your child have difficulty selecting a chosen toy in a toy box?
+25 Does your child sit closer to the television than about 30cm if you let him/her.
+26 Does your child find copying words or drawings time consuming and difficult?
+27 Does your child when walking hold onto your clothes, tugging down?
+28 Does your child find uneven ground difficult to walk over?
+29 Does your child bump into low furniture in a room they know well?
+30 Does your child bump into low furniture if it is moved in the room?
+31 Does your child get angry if furniture is moved?
+32 Does your child explore floor boundaries (eg. lino/carpet) with their foot before crossing the boundary?
+33 Does your child find inside floor boundaries difficult to cross?
+33.1 Boundaries that are <i>new</i> to them?
+33.2 Boundaries that are <i>well known</i> to them?
+34 Does your child reach incorrectly for objects, that is, do they reach beyond or around the object?
+35 Does your child when picking up an object grasp incorrectly, that is do they miss or knock the object over?
+36 Does your child find it difficult to keep to task for more than 5 minutes?
+37 Does your child after being distracted find it difficult to get back to what they were doing?
+38 Does your child bump into things when walking and having a conversation?
+39 Does your child miss objects which are obvious to you because they are different from their background and seem to 'pop out' eg. A bright ball in the grass?
+40 Do rooms with a lot of clutter cause difficult behaviour?
+41 Do quiet places/open countryside cause better behaviour?
+42 Is behaviour in a busy supermarket or shopping centre difficult?
+43 Does your child react angrily when other restless children cause distraction?
+44 Does your child have difficulty recognising close relatives in real life?
+45 Does your child have difficulty recognising close relatives from photographs?
+46 Does your child mistakenly identify strangers as people known to them?
+47 Does your child have difficulty understanding the meaning of facial expressions?
+48 Does your child have difficulty naming common colours?
+49 Does your child have difficulty naming basic shapes such as squares, triangles and circles?
+50 Does your child have difficulty recognising familiar objects such as the family car?
+51 Does your child find it difficult to identify where sound is coming from, for example if they shout for you in the house do you have to clearly tell them which room you are in, as they are unable to work out where you are from your voice alone?
+52 Has difficulty playing team games with a lot of players, especially if there are a lot of players and they are all moving?
+53 Has difficulty identifying objects when they are on a similar background such as a white T-shirt on a white sheet?
+54 Has difficulty reading crowded text  on paper or on a computer screen, but can cope better if some of the text is covered or removed?
+55 Has difficulty finding letters on keyboard but knows alphabet?
+56 Has difficulty recognising an object if it is partially hidden and not fully visible, or viewed from an unusual angle?
+57 Has difficulty recognising right and left shoes?
+58 Has difficulty recognising people, word, objects if changed in presentation style, i.e. font of text, hairstyle?
+
+# Responses
+
+"Left",
+"Right"
+
+"Left",
+"Right",
+"Both"
+
+
+"Never",
+"Rarely",
+"Sometimes",
+"Often",
+"Always",
+"Not Applicable, Too Young",
+"Not Applicable, Too Old",
+"Not Applicable, Physical Condition"
+
+"Near",
+"Far"
+
+"Yes",
+"No"

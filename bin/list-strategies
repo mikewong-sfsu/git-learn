@@ -1,0 +1,21 @@
+#! /usr/bin/perl
+use File::Slurp qw( read_file );
+use JSON::XS;
+use Data::Dumper;
+
+my $strategies = read_json( 'strategies.json' ) or die "Please run in the directory with 'strategies.json'";
+
+foreach my $list (@$strategies) {
+	my $questions = join( ', ', @{$list->{ questions }});
+	foreach my $strategy (@{ $list->{ strategies }}) {
+		printf "%s %s\n", $questions, $strategy;
+	}
+}
+
+sub read_json {
+	my $file = shift;
+	my $text = read_file( $file );
+	my $json = new JSON::XS();
+	my $data = $json->decode( $text );
+	return $data;
+}

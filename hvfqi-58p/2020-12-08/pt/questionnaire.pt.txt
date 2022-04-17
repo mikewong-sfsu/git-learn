@@ -1,0 +1,66 @@
+1 Seu filho tropeça em brinquedos e obstáculos no chão?
+2 Seu filho tem dificuldade para descer escadas?
+3 Seu filho tropeça nas bordas de calçadas subindo?
+4 Seu filho tropeça nas bordas de calçadas que caem?
+5 Seu filho parece 'ficar preso' no topo de um escorregador / colina?
+6 O seu filho olha para baixo ao cruzar os limites do piso, por exemplo. Onde o lino encontra o tapete?
+7 O seu filho deixa comida perto ou longe do prato?
+7.1 De que lado?
+8 Seu filho deixa comida do lado direito ou esquerdo do prato?
+8.1 De que lado?
+9 Seu filho tem dificuldade em encontrar o início de uma linha durante a leitura?
+10 Seu filho tem dificuldade em encontrar a próxima palavra durante a leitura?
+11 O seu filho anda na frente do trânsito?
+11.1 Qual lado?
+12 O seu filho bate nos batentes das portas ou nas portas parcialmente abertas?
+12.1 Qual lado?
+13 Seu filho sente falta de imagens ou palavras em um lado da página?
+13.1 Qual lado?
+14 Seu filho tem dificuldade em ver a paisagem de um veículo em movimento?
+15 Seu filho tem dificuldade para ver coisas que se movem rapidamente, como pequenos animais ou crianças, água em movimento ou cursor na tela do computador?
+15.1 Que coisa (s) que se movem rapidamente seu filho tem dificuldade de ver? Você pode selecionar uma ou mais respostas para esta pergunta.
+16 Seu filho evita assistir filmes em movimento rápido e / ou prefere assistir filmes em movimento lento?
+17 Seu filho tem dificuldade para pegar a bola?
+18 O seu filho tem dificuldade em ver algo que está apontado à distância?
+19 Seu filho tem dificuldade em encontrar um amigo próximo ou parente que esteja em um grupo?
+20 O seu filho tem dificuldade em encontrar um item no supermercado, por exemplo. encontrar o cereal matinal que eles querem?
+21 O seu filho se perde em lugares onde há muito para ver, por exemplo. uma loja lotada?
+22 Seu filho se perde em lugares que são bem conhecidos por ele? por exemplo. escola
+23 Seu filho tem dificuldade em localizar uma peça de roupa em uma pilha de roupas?
+24 Seu filho tem dificuldade em selecionar um brinquedo escolhido em uma caixa de brinquedos?
+25 O seu filho senta-se mais perto da televisão do que cerca de 30 cm se você deixar.
+26 Seu filho acha que copiar palavras ou desenhos é demorado e difícil?
+27 O seu filho, ao andar, segura sua roupa, puxando-o para baixo?
+28 O seu filho acha difícil andar por cima de terreno irregular?
+29 Seu filho esbarra em móveis baixos em uma sala que ele conhece bem?
+30 O seu filho esbarra em móveis baixos se eles forem movidos na sala?
+31 O seu filho fica zangado quando a mobília é movida?
+32 Seu filho explora os limites do chão (por exemplo, linóleo / carpete) com o pé antes de cruzar o limite?
+33 O seu filho tem dificuldade em cruzar os limites do piso?
+33.1 Limites que são <i> novos </i> para eles?
+33.2 Limites que são <i> bem conhecidos </i> por eles?
+34 Seu filho alcança objetos de maneira incorreta, ou seja, alcança além ou ao redor do objeto?
+35 Seu filho, ao pegar um objeto, agarra incorretamente, ou seja, ele perde ou derruba o objeto?
+36 Seu filho acha difícil cumprir a tarefa por mais de 5 minutos?
+37 Seu filho, depois de se distrair, acha difícil voltar ao que estava fazendo?
+38 O seu filho esbarra nas coisas quando anda e conversa?
+39 Seu filho sente falta de objetos que são óbvios para você porque são diferentes de seu fundo e parecem 'saltar', por exemplo. Uma bola brilhante na grama?
+40 Os quartos com muita desordem causam um comportamento difícil?
+41 Locais silenciosos / campo aberto causam melhor comportamento?
+42 O comportamento em um supermercado ou shopping center movimentado é difícil?
+43 Seu filho reage com raiva quando outras crianças inquietas causam distração?
+44 Seu filho tem dificuldade em reconhecer parentes próximos na vida real?
+45 Seu filho tem dificuldade em reconhecer parentes próximos nas fotos?
+46 O seu filho identifica erroneamente estranhos como pessoas conhecidas por eles?
+47 Seu filho tem dificuldade em entender o significado das expressões faciais?
+48 Seu filho tem dificuldade em nomear cores comuns?
+49 Seu filho tem dificuldade para nomear formas básicas, como quadrados, triângulos e círculos?
+50 Seu filho tem dificuldade em reconhecer objetos familiares, como o carro da família?
+51 O seu filho tem dificuldade em identificar de onde vem o som, por exemplo, se gritarem por você em casa, você deve dizer claramente em qual cômodo você está, pois eles não conseguem descobrir de onde você está? voz sozinha?
+52 Tem dificuldade em jogar jogos em equipe com muitos jogadores, especialmente se houver muitos jogadores e todos estiverem se movendo?
+53 Tem dificuldade em identificar objetos quando eles estão em um fundo semelhante, como uma camiseta branca em um lençol branco?
+54 Tem dificuldade para ler texto lotado no papel ou na tela do computador, mas pode lidar melhor se parte do texto for coberto ou removido?
+55 Tem dificuldade em encontrar letras no teclado, mas conhece o alfabeto?
+56 Tem dificuldade em reconhecer um objeto se ele estiver parcialmente escondido e não totalmente visível, ou visto de um ângulo incomum?
+57 Tem dificuldade em reconhecer os sapatos direito e esquerdo?
+58 Tem dificuldade em reconhecer pessoas, palavras, objetos se o estilo de apresentação for alterado, ou seja, a fonte do texto, o penteado?

@@ -1,0 +1,41 @@
+#! /usr/bin/perl
+use JSON::XS;
+use File::Slurp qw( read_file );
+
+my $language      = shift or die "Please provide a translation language";
+my $questionnaire = read_json( 'questionnaire.json' );
+
+open my $fh, '<', "questionnaire.$language.txt" or die "Can't find translation 'questionnaire.$language.txt' $!";
+while( <$fh> ) {
+	chomp;
+	next unless $_;
+	my ($number, $translation) = /^(\d+(?:\.\d+)?)\s+(.*)$/;
+	$number = $number + 0.0;
+	my $leading  = int( $number );
+	my $decimal  = 0.0 + sprintf( "%.1f", ($number - $leading));
+	my $followup = int( $decimal * 10 );
+	$leading  -= 1;
+	$followup -= 1;
+
+	# print STDERR "NUMBER $number LEADING $leading FUP $followup TRANSLATION $translation\n";
+
+	if( $followup < 0 ) {
+		$questionnaire->{ questions }[ $leading ]{ text } = $translation;
+	} else {
+		$questionnaire->{ questions }[ $leading ]{ follow }{ ups }[ $followup ]{ text } = $translation;
+	}
+}
+close $fh;
+
+my $json = new JSON::XS();
+print $json->canonical->pretty->encode( $questionnaire );
+
+# ============================================================
+sub read_json {
+# ============================================================
+	my $file = shift;
+	my $text = read_file( $file );
+	my $json = new JSON::XS();
+	my $data = $json->decode( $text );
+	return $data;
+}

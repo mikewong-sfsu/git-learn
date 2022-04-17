@@ -1,0 +1,500 @@
+{
+   "conclusion" : "<h2>Thank you for your time!</h2>",
+   "questions" : [
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for trip over obstacles or objects on the floor that you did not see?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty walking down stairs, for visual reasons?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for trip at the edges of pavements going up?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for trip at the edges of pavements going down / or have difficulty stepping off buses or other public transport?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for hesitate to go down a hill or a steep slope? (i.e.: have a feeling of 'getting stuck' at the top)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have to look down when crossing floor boundaries? (e.g.: where floor surface meets carpet)"
+      },
+      {
+         "follow" : {
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "near-far"
+                  },
+                  "text" : "Which side?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for miss food on the near or far side of your plate?"
+      },
+      {
+         "follow" : {
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "left-right"
+                  },
+                  "text" : "Which side?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for miss food on the right side or left side of your plate?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty finding the beginning of a line when reading a printed book?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty finding the next word in a sentence while reading a printed book?"
+      },
+      {
+         "follow" : {
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "left-right"
+                  },
+                  "text" : "Which side?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Has the person you are answering for walked out in front of traffic because you have difficulty judging moving traffic?"
+      },
+      {
+         "follow" : {
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "left-right"
+                  },
+                  "text" : "Which side?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for bump into doorframes or partly open doors when walking through them?"
+      },
+      {
+         "follow" : {
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "left-right"
+                  },
+                  "text" : "Which side?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty seeing the two sides of an open book or filling out two sides of a form?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty seeing the detail or spotting something in the scenery when riding as a passenger in a moving vehicle?"
+      },
+      {
+         "follow" : {
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "likert"
+                  },
+                  "text" : "Which quickly moving thing(s) does the person you are answering for have difficulty in seeing?  You may select one or more items for this question."
+               }
+            ]
+         },
+         "response" : {
+            "choices" : [
+               "Small animals/children",
+               "Moving water",
+               "A cursor on a computer screen",
+               "Passing cars",
+               "A ball in flight"
+            ],
+            "type" : "multiple-choice"
+         },
+         "text" : "Does the person you are answering for have difficulty seeing things which are moving quickly? (e.g.: such as small animals / children; moving water as from a flowing tap or in a river, the cursor on a computer screen, passing cars, or a ball in flight)."
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for avoid watching fast moving TV and film images?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for prefer to watch slow moving TV and film images?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty catching something that is thrown to them (e.g.: a ball)?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty seeing something that is pointed out in the distance?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty finding a close friend or relative who is standing in a group?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty finding an item they want in a supermarket aisle/lane? (e.g. finding their chosen breakfast cereal amongst many breakfast cereals)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for lose their bearing in places where there is a lot to see? (e.g. a crowded shop)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for feel lost in places which are well known to them? (e.g.: their neighborhood; workplace; their usual transit hubs)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty locating an item of clothing in a pile of clothes?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for often lose things?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for sit close to the television? (e.g. less than about 30cm)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for find copying words or drawings to and from a screen or a document, time consuming and difficult?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for prefer holding onto something (handrail, walking stick, a person) while walking outside?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for find uneven ground difficult to walk over (i.e. grass, a hiking trail)?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for bump into low furniture in a room that they know well?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for bump into low furniture if it has been moved in the room without their previous knowledge?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for get upset if furniture is moved in a room that they are familiar with?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for explore floor boundaries with their foot before crossing them? (e.g. floor/carpet edge)"
+      },
+      {
+         "follow" : {
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "yes-no"
+                  },
+                  "text" : "Boundaries that are new to them?"
+               },
+               {
+                  "response" : {
+                     "type" : "yes-no"
+                  },
+                  "text" : "Boundaries that are well known to them?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for find inside floor boundaries difficult to cross?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for find any difficulty in reaching for or picking up objects accurately? (e.g.: do they reach beyond or around the object)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "When picking up an object, does the person you are answering for grasp it incorrectly? (e.g.: do they miss or knock the object over?)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for find it difficult to keep to a challenging task if there are distractions around them?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty getting back to a task after being distracted?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for bump into things while moving and having a conversation at the same time?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for miss objects when they are different from their background, but seem to 'pop out' and are obvious to others? e.g.: A bright object/football in the grass?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Do rooms with a lot of clutter cause the person you are answering for difficulty?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for prefer quiet places/open countryside in comparison to busy cities?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty getting around in a busy place? e.g.: supermarket/busy street/airport?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for find it annoying when other restless people cause distraction?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty recognising close relatives in real life?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty recognising close relatives from photographs?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for mistakenly identify strangers as people known to them?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty understanding the meaning of facial expressions? (e.g. when someone is smiling or annoyed or sad)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty naming common colours?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty recognising or naming basic shapes such as squares, triangles and circles?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty recognising familiar objects? (e.g.: the family car)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for find it difficult to identify where sound is coming from? (e.g.: in their home, if someone calls from a different room, can they tell from which room by the direction of the voice?)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty playing team games, especially if there are a lot of players and they are all moving?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty identifying objects when they are on a similar background such as a white T-shirt on a white sheet? (or black shoes on a black background/in a dark cupboard)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty reading crowded text on paper or on a computer screen, but can cope better if some of the text is covered or removed, or the spacing is increased?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty finding the letters on a keyboard?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty recognising an object if it is partially hidden (or not fully visible), or viewed from an unusual angle? (e.g.; a bicycle hidden partly behind a wall)"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty recognising right and left shoes?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Does the person you are answering for have difficulty recognising people, word, objects if changed in presentation style? i.e. hairstyle; grown a moustache; font of the text; a familiar object presented from a rear view or a top-down view?"
+      }
+   ],
+   "response" : {
+      "left-right" : {
+         "affirmative" : [
+            0,
+            1
+         ],
+         "choices" : [
+            "Left",
+            "Right"
+         ]
+      },
+      "left-right-both" : {
+         "affirmative" : [
+            0,
+            1,
+            2
+         ],
+         "choices" : [
+            "Left",
+            "Right",
+            "Both"
+         ]
+      },
+      "likert" : {
+         "affirmative" : [
+            2,
+            3,
+            4
+         ],
+         "choices" : [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Often",
+            "Always",
+            "Not Applicable"
+         ]
+      },
+      "near-far" : {
+         "affirmative" : [
+            0,
+            1
+         ],
+         "choices" : [
+            "Near",
+            "Far"
+         ]
+      },
+      "yes-no" : {
+         "affirmative" : [
+            0
+         ],
+         "choices" : [
+            "Yes",
+            "No"
+         ]
+      }
+   }
+}

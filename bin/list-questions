@@ -1,0 +1,31 @@
+#! /usr/bin/perl
+use File::Slurp qw( read_file );
+use JSON::XS;
+use Data::Dumper;
+
+my $questionnaire = read_json( 'questionnaire.json' ) or die "Please run in the directory with 'questionnaire.json'";
+
+my $num = 1;
+my $fup = 0;
+foreach my $question (@{$questionnaire->{ questions }}) {
+	if( $fup == 0 ) {
+		printf "%d %s\n", $num, $question->{ text };
+	}
+	if( exists $question->{ follow }{ ups }) {
+		$fup = 1;
+		foreach my $followup (@{ $question->{ follow }{ ups }}) {
+			printf "%d.%d %s\n", $num, $fup, $followup->{ text };
+			$fup++;
+		}
+		$fup = 0;
+	}
+	$num++;
+}
+
+sub read_json {
+	my $file = shift;
+	my $text = read_file( $file );
+	my $json = new JSON::XS();
+	my $data = $json->decode( $text );
+	return $data;
+}
