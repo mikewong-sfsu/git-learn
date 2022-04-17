@@ -1,0 +1,652 @@
+[
+   [],
+   {
+			"num" : 1,
+			"question" : "Trips / moves over toys and obstacles on the floor",
+			"strategies" : [
+				"Keep floor space tidy and clear of obstacles.",
+				"Give your child reminders. For example \" look down and take one step at a time.\" ",
+				"Encourage your child to use a stick (maybe a hockey stick,or hiking pole or one picked up from the park) to feel the height of the ground ahead. The stick can also be used to identify and guide them around obstacles.",
+				"Try other ways to help your child walk over uneven ground and around obstacles. For example, offer your child your arm to hold. Suggest they hold onto the belt or clothing of someone who is walking with them, or encourage them to hold onto a wall.",
+				"Tell your child about obstacles and hazards they could miss due to their small field of view. (For example \"look down as we go down these steps.\")",
+				"Make a secret code to use when you are out and about. A tap on your child's shoulder could mean \"Watch out! There is a hazard in the room.\"",
+				"When your child comes to an obstacle teach them to slow down, look, double check and then go - \"Slow, Look, Check, Go\". This can be used inside and outside."
+			]
+   },
+   {
+			"num" : 2,
+			"question" : "Has difficulty walking down stairs",
+			"strategies" : [
+				"Use extra supports so your child can feel the height and position of steps. For example hand rails at the correct height (on both sides where possible) or holding onto an adult. ",
+				"Tell your child to slow down and hold on to the hand rails when they come across steps.",
+				"Give your child an agreed warning when you come across steps or stairs, this could be a sound or touch.",
+				"Use bright lighting or spot lights on stairs. This is most important at the top, the bottom and on the landing. This will create shadows and an make the steps clearer. ",
+				"Try using a torch at night.",
+				"Tell your child to look down at their feet when they go down stairs.",
+				"Plain floor covering (eg laminate or plain carpet) can make it easier to walk down stairs. Patterns cause distractions, and can act like obstacles.",
+				"Try to keep walls plain. For example use plain not patterned wall paper and don't have too many pictures on the wall.",
+				"Let your child go first or last when using stairs. This is more important if there is a crowd of people (such as at school or in a shopping centre).",
+				"Set up a buddy system for your child. A buddy can help by finding people and guiding your child in crowded places (such as the school palyground). ",
+				"Encourage your child to use lifts or escalators.",
+				"Let your child have lots of time to practice stairs.",
+				"Arrange for your child to leave class a little earlier or later than their peers. This will allow them to miss the rush and crowds of other people on the stairs.",
+				"Talk to your child's school about having their classes on the ground floor.",
+				"Highlight the edge of each step with a bright colour. Or put a dot in the middle of each step to show where their foot should go.",
+				"Use a colour to mark the area beyond the top and bottom of the stairs. This may help to show more clearly where the stairs start and finish.",
+				"Give your child extra support when they are going up or down stairs/ steps."
+			]
+   },
+   {
+			"num" : 3,
+			"note" : "Split into two questions in HVFQI",
+			"question" : "Trips or are unaware of the edges of pavements going up/ down",
+			"strategies" : [
+				"Give your child reminders. For example \"There is a kerb to go up in 3 metres.\" ",
+				"Use Pedestrian Crossings because kerbs stones are lower at these points.",
+				"Give your child reminders to look down. "
+			]
+   },
+   {
+			"num" : 4,
+			"question" : "Appears to 'get stuck' at the top of a slide or hill",
+			"strategies" : [
+				"Encourage your child to practice on small slides and/or by lying on their tummy on a scooter board or skate board. ",
+				"Some children choose to go down slides head first. Do not stop this, but make sure it is safe. Children may do this because the upper part of their field of view is being used in this situation."
+			]
+   },
+   {
+			"num" : 5,
+			"question" : "Looks down when crossing floor boundaries e.g. where lino meets carpet",
+			"strategies" : [
+				"Give your child extra hints and prompts. For example \"The carpet finishes here.\"",
+				"Plain carpets and floor surfaces may help. Use coloured tape to mark a change in surface, this can make it easier for your child to spot.",
+				"Make sure floors are well lit where one surface stops and another starts. For example wood to carpet at a doorway.",
+				"Put a picture or symbol at your child's eye level to mark a point where one surface will stop and another will start.",
+				"Highlight changes in the floor surface. For example, where carpet changes to lino.",
+				"Try not to use patterned carpets.",
+				"Suggest your child pushes a tennis racquet, hockey stick, pram or other push toy ahead of them while walking."
+			]
+   },
+   {
+			"num" : 6,
+			"question" : "Leaves food on their plate (near, far). ",
+			"strategies" : [
+				"Put your child's favourite foods on the part of their plate that is usually forgotten.",
+				"At meal times make sure your child turns their plate. This could be done when you tell them, or when an egg timer has run out, or a stop watch reached a set time. ",
+				"Put your child's plate on a spinning base, like those found in a Microwave.",
+				"Put food on plain plates.",
+				"Put different foods on different plates.",
+				"Use different types and colours of food. This may make each food easier to spot.",
+				"Try to avoid using gravy or sauces, as they can make the different foods on a plate look like one. ",
+				"Sit your child on a lower seat at meal times. This may give a better view of whole plate.",
+				"Put your child's favourite foods on the part of the plate that is usually forgotten.",
+				"If you put more than one type of food on a plate make sure each food is a different colour to the others. This may help your child to spot the different foods."
+			]
+   },
+   {
+			"num" : 7,
+			"question" : "Leaves food on their plate (left, right). ",
+			"strategies" : [
+				"Put your child's favourite foods on the part of their plate that is usually forgotten.",
+				"At meal times make sure your child turns their plate. This could be done when you tell them, or when an egg timer has run out, or a stop watch reached a set time. ",
+				"Put your child's plate on a spinning base, like those found in a Microwave.",
+				"Put food on plain plates.",
+				"Put different foods on different plates.",
+				"Use different types and colours of food. This may make each food easier to spot.",
+				"Try to avoid using gravy or sauces, as they can make the different foods on a plate look like one. ",
+				"Sit your child on a lower seat at meal times. This may give a better view of whole plate.",
+				"Put your child's favourite foods on the part of the plate that is usually forgotten.",
+				"If you put more than one type of food on a plate make sure each food is a different colour to the others. This may help your child to spot the different foods."
+			]
+   },
+   {
+			"num" : 8,
+			"note" : "Omitted in HVFQI",
+			"question" : "Has difficulty stepping into the bath, which is not related to balance",
+			"strategies" : [
+				"Put one bathmat outside the bath and one inside. Theyz should be bright, and a different colour to the bath.",
+				"Put stickers on the edge of the bath to make it stand out."
+			]
+   },
+   {
+			"num" : 9,
+			"question" : "Has difficulty finding the beginning of a line or the next word when reading , or misses pictures or words on one side of a page (left /right)",
+			"note" : "Split into three questions in HVFQI; third question appears slightly later than first two",
+			"question" : "Has difficulty stepping into the bath, which is not related to balance",
+			"strategies" : [
+				"Ask your child to point to each word with their finger.",
+				"View only one line of a book at a time. This can be done using a piece of card with a viewing window cut out of it. This reduces the amount of text on view and can be moved from line to line.",
+				"Make the font size bigger and/or use double spacing between lines.",
+				"Make sure only a small amount of information is shown to your child at a time. For example, a small amount of text on a page, a small amount of information on the board.",
+				"Make the print in text books bigger by using a photocopier to enlarge each page.",
+				"Block out extra bits of work or pictures on a page. This can be done using a blank piece of card or the back of your hand.",
+				"Use a magnifying glass or magnifying acetates.",
+				"Find the font size and number of words per page, and line, that your child prefers to work with (not the smallest they can read). Make sure work is given to your child in this size and layout.",
+				"Make a special work book by scanning photos, words and subjects that your child likes.",
+				"Mark the point where text starts so the eyes are drawn to it. This can be done with a ruler, the back of your hand or a brightly coloured dot.",
+				"Use a raised book stand for reading, for example a recipe book holder.",
+				"Practice reading using items that your child enjoys. For example, The children's newspaper \"First news\".",
+				"See if the class reading book is available as a large print book.",
+				"Let your child try vertical reading. This is when words are placed underneath each other rather than side by side.",
+				"Make sure only small amounts of visual information are presented at one time. For example make print bigger or block it out with a piece of card. ",
+				"Break text into small bits. This can be done by enlarging text on a photocopier and then cutting it into small sections.",
+				"Use a computer programme which shows one word at a time."
+			]
+   },
+   {
+			"num" : 10,
+			"question" : "Walks out in front of traffic ( left/ right / both",
+			"strategies" : [
+				"Give your child extra hints. For example \"We must wait here while we check it is safe to cross.\"",
+				"When teaching your child to cross the road, teach them to cross at pedestrian crossings.",
+				"Remind your child to listen carefully for cars, as well as looking, when they are crossing the road.",
+				"Teach your child to turn their whole body from side to side when they look for cars. You can encourage them by doing the same thing."
+			]
+   },
+   {
+			"num" : 11,
+			"question" : "Bumps into doorframes or partly open doors (left/right/both)",
+			"note" : "Omitted in HVFQI",
+			"strategies" : [
+				"Give extra hints. For example,  \"There is a door coming up in 3 metres.\"",
+				"Help door frames stand out by painting them a bright colour.",
+				"Replace doors with a beaded curtain.",
+				"Make it clear where walls and floors start and finish. You can do this by making the wall and floor different colours.",
+				"Make skirting boards and door frames stand out from walls and floors by painting them a different colour.",
+				"If your child always bumps into the same side of the door frame put a bright mark or picture on that side of door frame. Place the mark or picture at your child's eye level."
+			]
+   },
+   {
+			"num" : 12,
+			"question" : "Has difficulty seeing scenery from a moving vehicle",
+			"strategies" : [
+				"Give extra reminders. For example  \"There is a church coming up on your left.\" ",
+				"If your child doesn't like traveling in the car try asking them to wear wrap around sunglasses. This may reduce the feeling of movement and visual input. ",
+				"When you are out and about video interesting things on a camcorder or mobile phone. These can be discussed with your child later.",
+				"Let your child to sit in the front seat of the car."
+			]
+   },
+   {
+			"num" : 13,
+			"question" : "Has difficulty seeing things which are moving quickly, such as small animals, children",
+			"strategies" : [
+				"Tell your child things that they might want to know. For example,  \"Your friend Jenny is at the gate in a pink jacket.\" ",
+				"Make sure friends and teachers tell your child who theyz are, especially if theyz meet in a busy area with lots of movement.",
+				"Offer extra help when your child needs to find friends and/ or family in busy places, such as the playground. For example, \"Your friend Jenny is standing at the picnic table.\"",
+				"Encourage your child to listen carefully to the voices of friends and family. Your child can then use a person's voice to help work out who theyz are. ",
+				"Encourage your child to shout for the person they want to find.",
+				"Encourage your child to use a mobile phone to call or text the person they want to find.",
+				"If your child is planning to meet up with friends or family make sure a meeting point has been arranged before hand.",
+				"Teach your child to follow moving objects by moving their head as well as their eyes."
+			]
+   },
+   {
+			"num" : 14,
+			"note" : "Omitted in HVFQI",
+			"question" : "Has difficulty seeing moving water i.e. tends to over or underfill a cup ",
+			"strategies" : [
+				"Use a clear plastic cup.",
+				"Encourage your child to use a smaller cup that they can look into.",
+				"Ask your child to half fill cups. Practice pouring the liquid together. Count how many seconds of pouring it takes to half fill the cup. Then use this as a guide.",
+				"Try using a fluid indicator when pouring liquids. (This device hangs over the rim of a cup and makes a beep when the liquid reaches 4cm below the top of the cup). Fluid indicators are available from the RNIB.",
+				"When pouring cool liquids teach your child put the thumb of their non-dominant hand pointing down into cup. They will feel the liquid on their thumb and know that the cup is nearly full.",
+				"Teach your child to listen to the sound that is made when they fill a cup or glass. As a cup fills the sound of it filling changes. It becomes higher in pitch.",
+				"Mark the cup with nail polish at the level it should be filled to."
+			]
+   },
+   {
+			"num" : 15,
+			"note" : "Omitted in HVFQI",
+			"question" : "Has difficulty following a curser on the computer screen",
+			"strategies" : [
+				"Make the cursor on the computer screen bigger.",
+				"Switch the cursor to a flickering, instead of still, picture. This may make it easier for your child to find.",
+				"Vary size of the computer/TV screen to suit your child's ability to see the whole picture, a larger screen may help if the child is needs a larger image, a smaller screen may help if the child finds it difficult to look at the whole picture at the one time."
+			]
+   },
+   {
+			"num" : 16,
+			"note" : "Split into two questions in HVFQI",
+			"question" : "Avoids watching fast moving TV, prefers to watch slow moving TV",
+			"strategies" : [
+				"Try a flat screen TV as your child may find this easier to see.",
+				"Encourage your child to sit close to the TV. This may cut out some visual distractions. Some families have chosen to have an extra TV that their child can sit close to.",
+				"Reduce the number of objects around the TV. i.e. photos, pictures, patterned wall coverings. These all act as visual distractions.",
+				"Make sure the class teacher knows that many curriculum TV programmes can be difficult for your child to follow. This is due to the speed and content of the programme. Your child may be better off using the time for another task.",
+				"Old films (pre 1970  i.e. The Wizard of Oz) usually have simple graphics, fewer camera movements and less zoom photography. And theyz are usually slower moving. These factors may make older films easier for your child to follow.",
+				"Find programmes where the presenter sits or stands still ( for example children's news, weather) and encourage your child to watch these."
+			]
+   },
+   {
+			"num" : 17,
+			"question" : "Has difficulty catching a ball",
+			"strategies" : [
+				"Practice catching skills with your child by throwing a balloon to each other. The balloon will move slower than a ball and may be easier for your child to catch.",
+				"Put a little bit of rice / water in the ballon. The balloon will make a noise as it moves so your child can hear where it is.",
+				"Use large, brightly coloured balls when playing catch or other ball games with your child.",
+				"Use balls with sound or light effects when playing catch or other ball games with your child."
+			]
+   },
+   {
+			"num" : 18,
+			"notes" : "Presented ~10 questions later in HVFQI",
+			"question" : "When walking, holds onto your clothes, tugging down",
+			"strategies" : [
+				"When walking together hold hands with your child. This works best if you hold your arm straight and slightly back. This gives your child a guide to the height of the ground ahead.",
+				"Talk to your child as they move, tell them what is coming up. For example \"In three steps you will be moving onto carpet.\"",
+				"Give your child extra physical support i.e. hand rails/banisters as required.",
+				"Talk to your child as you walk together giving them reminders and instructions. For example, \"You need to lift your feet higher here as the ground is bumpy.\" ",
+				"Work on movement skills with activities and games. For example obstacle courses in the park, house or garden, riding, swimming or trampolining.",
+				"Try other ways to help your child walk over uneven ground and around obstacles. For example, offer your child your arm to hold. Suggest they hold onto the belt or clothing of someone who is walking with them, or encourage them to hold onto a wall."
+			]
+   },
+   {
+			"num" : 19,
+			"question" : "Finds uneven ground difficult to walk over",
+			"strategies" : [
+				"When walking together hold hands with your child. This works best if you hold your arm straight and slightly back. This gives your child a guide to the height of the ground ahead.",
+				"Talk to your child as you walk together giving them reminders and instructions. For example, \"You need to lift your feet higher here as the ground is bumpy.\"",
+				"Encourage your child to use something to help with balance and tell them what is ahead. This could be a pram, wheeled toy, hockey stick or walking pole. Make sure the aid suits your child's age and is something they have chosen to use.",
+				"Make sure there is no change in height when one floor surface stops and the next begins.",
+				"Encourage your child to wear white trainers or shoes to make their feet stand out.",
+				"In play grounds/ play areas use Astroturf or coloured matting. Use different colours in different areas.",
+				"Use coloured rubber flag stones to help different areas of ground in the playground or garden stand out more clearly. Make sure there is no height difference between each flag stone.",
+				"Make sure there is safe ground cover in outside areas that are frequently visited. For example, the playground.",
+				"Let your child practice balance skills by trying different activities, for example obstacle courses, wobble borads or horse riding."
+			]
+   },
+   {
+			"num" : 20,
+			"question" : "Bumps into low furniture, such as a small table",
+			"strategies" : [
+				"Remind your child to change their head position and look down if they want to look at an obstacle.",
+				"Tell your child what is round about. For example \"The coffee table is just in front of you.\" ",
+				"If you are moving furniture around make sure your child is involved.",
+				"Have less furniture in each room. This will make more space for your child to move around.",
+				"Make sure the furniture is a different colour to the floor. Use plain carpet and wall coverings. This will make the overall picture simpler for your child.",
+				"Make sure you do not buy glass furniture or furniture with sharp edges."
+			]
+   },
+   {
+			"num" : 21,
+			"note" : "Split into two slightly different questions in HVFQI",
+			"question" : "Gets angry if furniture is moved",
+			"strategies" : [
+				"Remind your child to change their head position and look down if they want to look at an obstacle.",
+				"Tell your child what is round about. For example \"The coffee table is just in front of you.\"",
+				"If you are moving furniture around make sure your child is involved.",
+				"Have less furniture in each room. This will make more space for your child to move around.",
+				"Make sure the furniture is a different colour to the floor. Use plain carpet and wall coverings. This will make the overall picture simpler for your child."
+			]
+   },
+   {
+			"num" : 22,
+			"note" : "Split into two questions in HVFQI",
+			"question" : "Explores floor boundaries (e.g. lino/carpet) with their foot before crossing the boundary or finds floor boundaries difficult to cross",
+			"strategies" : [
+				"Tell your child about floor boundaries as they walk towards them. For example \"The floor will change to carpet in 3 steps.\"",
+				"Mark floor boundaries and steps clearly.",
+				"Make sure different surfaces are different colours. For example a plain red rug on a plain cream carpet.",
+				"Encourage your child to use a wheeled toy, walking stick or something similar to feel the height of the ground ahead. This must be something that suits their age and something they have chosen themself.",
+				"Make sure there is good lighting in areas with floor boundaries (where one surface stops and the next starts).",
+				"Use plain floor coverings.",
+				"Give your child extra support. For example your arm, a rail, or the wall.",
+				"Arrive early at new places. This may help your child get to know the new surroundings and find points where the floor surface changes."
+			]
+   },
+   {
+			"num" : 23,
+			"note" : "Split into two questions in HVFQI",
+			"question" : "Reaches incorrectly for objects, i.e. reaching beyond or around the object or when picking up an object, grasps it incorrectly, missing or knocking it over",
+			"strategies" : [
+				"Use things that are a different colour to the surface of the unit.",
+				"Give extra reminders. For example, \"The cup is just beside your elbow\". Try using  weighted items as these are less likely to be knocked over.",
+				"When picking something up use the same hand for guidance - touch the surface the object is on with the side of the hand and slide the hand forward to pick up the object. Or use the other hand as a guide to find where the object is - touch the object with the non dominant hand allowing the reaching hand to use a more precise grip. The brain can note the position of the object through touch not vision.",
+				"Practice hand eye co-ordination with games and toys that develop this skill. For example Jenga, Snap, Wii , Eye toy for games console."
+			]
+   },
+   {
+			"num" : 24,
+			"question" : "Has difficulty seeing something which is pointed out in the distance",
+			"strategies" : [
+				"Try zooming in to an item of interest using a digital camera or camera phone. Consider recording the scene so you can talk about it later.  Allow your child time to practice using a camera or phone to do this.",
+				"Give your child clear directions about where you would like them to look. For example \"If you look at the big church, and then look past it you will see your friend.\"",
+				"Play  \"I spy\" games. Encourage your child to chose a distant object and give clues about it so that others have to find and identify the same object. (You could use a video camera or digital camera to help your child find objects in the distance).",
+				"Encourage your child  to look at the view regularly. Ask them to tell you want they see and talk about it together.",
+				"Give your child lots of time to take in what they are seeing. Try not to rush them on to the next thing too quickly.",
+				"If you spot something your child would enjoy take them to the object so they can see it close up."
+			]
+   },
+   {
+			"num" : 25,
+			"question" : "Has difficulty finding a close friend or relative who is standing in a group",
+			"strategies" : [
+				"Let your child know who is around. For example, \"your friend Jenny is at the gate in a pink jacket.\"",
+				"Make sure friends and teachers say who theyz are, especially if theyz meet your child in a busy place.",
+				"Point out friends and family in busy places such as the playground.",
+				"Ask your child to listen carefully to voices to help locate friends and family.",
+				"Ask your child to call out for person they want to find.",
+				"Ask your child to use mobile phone to call or text the person they want to find.",
+				"Agree a meeting point before hand.",
+				"Use your voice to help your child find you. (For example, Mum calls out her child's name so that her voice can be recognised as well as her face (be aware that some children find it hard to work out where a voice is coming from, so waving as well as shouting may help the child identify where Mum is).",
+				"Agree a meeting place in advance so your child knows where to find you.",
+				"Wear clothing that stands out and is easy to spot, for example a pink jumper or luminous jacket. This item of clothing may then \"pop out\"  at your child and help them to find you. Make sure tell your child about the item of clothing you plan to wear before hand so they know what to look for. It is also important that the item of clothing can be seen from all angles. i.e. a jumper, not a badge.",
+				"Encourage your child to shout for the person they are looking for.",
+				"Encourage your child to use a mobile phone to text or call the person they are looking for."
+			]
+   },
+   {
+			"num" : 26,
+			"question" : "Has difficulty playing team games with a lot of players, especially if there are a lot of players and they are all moving ",
+			"strategies" : [
+				"Make sure the school PE staff know your child can find it difficult to spot people. This can make team games harder and poor performance can affect confidence and self esteem.",
+				"Make sure that team members wear luminous/ brightly coloured bibs so that theyz can be seen more easily. The other team should wear different coloured bibs.",
+				"Ask team members to keep shouting out where theyz are so your child can spot themz more easily.",
+				"Encourage your child to try sports that involve fewer people and less movement. For example golf or fishing."
+			]
+   },
+   {
+			"num" : 27,
+			"question" : "Has difficulty finding an item in a supermarket e.g. finding the  cereal or magazine",
+			"strategies" : [
+				"Give extra spoken help and clear instructions. For example \"It is in the middle shelf at the front.\"",
+				"When you visit shops ask your child to find a few things. To start with always ask them to find the same things. Then slowly add in extra items. This may help your child remember where things are and learn how to find their way around the shop.",
+				"Make sure your child does not have to look through too many items to find what they are looking for. This can be done by shopping in small shops with small numbers of items on each shelf.",
+				"Put  only one type of clothing in each drawer or cupboard section. Make sure drawers are not too full. For example, have one drawer for socks, one for t-shirts etc."
+			]
+   },
+   {
+			"num" : 28,
+			"question" : "Has difficulty locating an item of clothing in a pile of clothes",
+			"strategies" : [
+				"Put  only one type of clothing in each drawer or cupboard section. Make sure drawers are not too full. For example, have one drawer for socks, one for t-shirts etc.",
+				"Try different storage styles and layouts. For example, order clothes across the way or down the way - underwear on the top or far left box, t-shirts in the next box, trousers or skirts in the next and so on.",
+				"Hang clothes on a rail or in a wardrobe rather than fold them.",
+				"Try hanging clothes in groups, put items of the same type and colour together. i.e. Red tee shirts together, blue tee shirts together, black trousers together.",
+				"Only put one type of clothing in each drawer. Don't overfill drawers. i.e. have one drawer for socks, one for t-shirts etc.",
+				" Hang all the clothes for one outfit together.",
+				"Lay out clothes the night before.",
+				"Make sure the walls, carpets and bed covers are plain. This means there is less for your child to 'take in' when they are looking for something.",
+				"Use spotlights or a lamp to light up important areas in room i.e. above drawers.",
+				"Involve your child in sorting out their belongings. Try not to use too many storage systems."
+			]
+   },
+   {
+			"num" : 29,
+			"question" : "Has difficulty selecting a chosen toy in a full toy box",
+			"strategies" : [
+				"Include your child in the storage of their belongings, let them decide where things should go.",
+				"Store shoes in an elevated shoe rack.",
+				"Involve your child in sorting out their belongings. Try not to use too many storage systems.",
+				"Put just a few items in each toy box, bag, drawer, cupboard and on each shelf. Set up a special area in your child's room for them to put important items i.e. a box or plate on the bedside table for glasses, I pod, mobile phone, TV remote. Encourage your child to always put things back in this place after they have used them.",
+				"Encourage your child to put things back in the same place when they have finished using them.",
+				"Label storage boxes and drawers with photos or pictures of what is inside. Try colour coded boxes, for example console games in blue boxes, trains in red boxes, dolls in yellow boxes etc.",
+				"At school make sure there are only a few things on your child's desk, in their pencil case and in their bag.",
+				"Try using 'see through' containers. i.e. pencil case and school bag. Have colour coded books/ folders for each subject.",
+				"Use clearly labelled storage so that objects can be easily put away after use. This will reduce the number of things your child is trying to see at the same time (visual clutter)."
+			]
+   },
+   {
+			"num" : 30,
+			"question" : "Has difficulty identifying objects when they are on a similar background such as a white tee hirt on a white sheet.",
+			"strategies" : [
+				"Use contrasting, plain colours and backgrounds."
+			]
+   },
+   {
+			"num" : 31,
+			"question" : "Gets lost in places where there is a lot to see, e.g. in a crowded shopping centre ",
+			"strategies" : [
+				"Make sure you have agreed a meeting point with your child, in case they get lost while out and about.",
+				"Ask your child to stay close to the adult looking after them when they are out and about.",
+				"Practice reading and using simple maps with your child. ",
+				"Give extra practice to help your child find their way around new and unfamiliar places. This may help your child get to know the area.",
+				"Ask your child to look at the horizon to find land marks. There is less to see when you look to horizon and it may be easier for your child to find the land mark they are looking for. ",
+				"Help your child to find their way around a new place. You can do this by encouraging your child to go a short distance and then return to you, gradually increase the distance travelled and the number of left / right turns . This could be used at a party venue or supermarket.",
+				"Use walkie talkies so that your child can keep in touch, but can also develop their independence.",
+				"Let your child lead and plan the route they want to use. Help them to find and use land marks and signs that are easy to spot. For example, Macdonalds."
+			]
+   },
+   {
+			"num" : 32,
+			"question" : "Finds copying words or drawings time- consuming and difficult ",
+			"strategies" : [
+				"Try Voice Activated soft ware which will read work and emails to your child.",
+				"Reduce the amount of copying your child has to do by putting information on a pre-printed sheet.",
+				"Email or scan information to a laptop intead of asking your child to copy it.",
+				"Make sure words are clearly visible to your child. The size of print needed will depend on how clearly your child sees (visual acuity) and how well they see contrast (contrast sensitivity).",
+				"Find out what colour of ink and size of print is clearest for your child to see. You should do this for both computer and board work.",
+				"Reduce the amount of information on the board. Leave only the most important text.",
+				"Make sure the space around the board is clear from anything that could distract from the board itself. i.e. pictures, mobiles.",
+				"In class make sure that your child sits face on to the board. Your child should sit at the distance they find it easiest to read the board.",
+				"Make sure the board is well lit.",
+				"Let your child to use a mobile phone to photograph writing from the board. This will save them from having to write it down. For example, homework instructions.",
+				"Play games that use your child's ability to remember what they have seen. For example, 'I spy', 'tell me what you saw'.",
+				"Make use of your child's memory for things they hear. For example, speak instructions out loud as well as writing themz down.",
+				"Do not ask your child to do more than one thing at a time, for example write and speak or write and listen at the same time.",
+				"Scribe work for your child where possible. This can need a lot of practice, especially if you are scribing for maths, science or languages.",
+				"Spend time with your child working out the best text layout for them. "
+			]
+   },
+   {
+			"num" : 33,
+			"question" : "Has difficulty reading crowded text  on paper or on a computer screen, but can cope better if some of the text is covered or removed",
+			"strategies" : [
+				"Hide text around the words your child is trying to read using a typoscope (a piece of black card with a viewing slot in it). This can be moved along each line and from line to line.",
+				"Make words (font size) bigger. This will reduce the number of words on the paper or screen at any one time and may make it easier for your child to 'take in' the information.",
+				"Make sure your child is not asked to 'take in' too much information at the same time. This can be done by putting only a few things on each page or on the classroom board.",
+				"You can try different line spacing, font style and colour contrast. You should be aiming to find the layout that allows your child to read the fastest. Once this layout have been found use it as often as you can. Note you may need books to be scanned and enlarged or converted to double spacing. Make sure the computer set up is the same every time it is turned on.",
+				"Try using a mat screen rather than gloss.",
+				"Spend time with your child working out the best text layout for them. "
+			]
+   },
+   {
+			"num" : 34,
+			"question" : "Has difficulty finding letters on keyboard but knows alphabet",
+			"strategies" : [
+				"Make key board keys clearer using brightly coloured alphabet stickers.",
+				"Use a larger key board with bigger keys.",
+				"Try using an adapted mouse or keyboard. For example, keyboard with a finger guard or highlighted keys, or a mouse that is enlarged.",
+				"Let your child try different computer programmes to reduce the dexterity skills required i.e. clicker 5 clicks on the word, your child will then have to find the word and click with the mouse, not type each individual letter with their fingers.",
+				"Try Voice Activated soft ware. The key board will then play a less important role in computer work."
+			]
+   },
+   {
+			"num" : 35,
+			"question" : "Sits closer to the television than about 30 cm",
+			"strategies" : [
+				"See if your child finds it easier to watch TV on a large screen TV.",
+				"Make sure there are no objects (visual clutter) between your child's seat and the TV.",
+				"Do not put things around the TV. These objects (photos, plants etc) can create 'visual clutter' and increase the amount of information your child is trying to 'take in' at once.",
+				"See if your child finds a smaller TV easier to watch. A large screen can make it hard to follow what is happening in all parts of the picture.",
+				"Join a film or book club to get older, slower moving films. These usually have fewer special effects."
+			]
+   },
+   {
+			"num" : 36,
+			"note" : "Split into two questions in HVFQI",
+			"question" : "Finds it difficult to keep to task for more than 5 minutes, or after being distracted finds it difficult to get back to what they were doing",
+			"strategies" : [
+				"Take away unecessary objects that clutter your child's work area.",
+				"If possible, take other distractions away from your child's work area. i.e. sound, movement.",
+				"Ask your child to work in short bursts. You can do this by giving tasks in short blocks and breaking down activities.",
+				"Time your child's concentration span. Work with your child only for as long as they can concentrate. You may be able to build this up slowly.",
+				"Use a timer to set time limits for tasks. This should be based on your child's concentration span. The timer can be one that you watch (eg an egg timer) or one that makes a noise (eg a buzzer).",
+				"Vary tasks and demands. i.e. seating, standing, moving, listening, talking, looking.",
+				"Give your child lots of reminders and praise. For example \"You are doing well. Just 1 more minute to go\".",
+				"With your child, make up an unspoken signal that you can give to help your child get back on task.  For example, a tap on the shoulder or two claps.",
+				"Have a quiet work space for your child at home and in class. Don't have too many things in this space. Too many objects can act as 'visual distractions' and make it harder for your child to find what they are looking for. This work space should not be beside a window.",
+				"Let you child have lots of breaks. Let them move around at these times. They could hand out pencils or go for a message. Your child may need to do something active before they get started on a writing task.",
+				"Make sure your child sits near the front of the class, facing the board and teacher. But make sure your child does not sit at the very front of the class, as they may want to turn around. Sitting near the front of the class may take away 'visual distractions' and the need to look over heads.  ",
+				"Let your child try using a chair with arms. This may help them to balance.",
+				"See how your child gets on sitting at a separate desk at the end of the group. This may give them more space without leaving them out of the group. If your child has visual attention problems on one side, consider sitting with the affected side next to the wall (i.e. if your child always leaves the food on the right side of their plate or bumps into the right side of a door frame sit them with their right side to the wall).",
+				"Let your child use a fidget object to help them focus on what is being said. This could be \"blu tac\", a giant paper clip, or a rubber.",
+				"Let your child use head phones or ear plugs so noise does not disturb them."
+			]
+   },
+   {
+			"num" : 37,
+			"question" : "Reacts angrily when other restless children cause distraction",
+			"strategies" : [
+				"If possible, take other distractions away from your child's work area. i.e. sound, movement.",
+				"Let your child use head phones or ear plugs so noise does not disturb them.",
+				"Have a quiet work space for your child at home and in class. Don't have too many things in this space. Too many objects can act as 'visual distractions' and make it harder for your child to find what they are looking for. This work space should not be beside a window.",
+				"See how your child gets on sitting at a separate desk at the end of the group. This may give them more space without leaving them out of the group. If your child has visual attention problems on one side, consider sitting with the affected side next to the wall (i.e. if your child always leaves the food on the right side of their plate or bumps into the right side of a door frame sit them with their right side to the wall)."
+			]
+   },
+   {
+			"num" : 38,
+			"question" : "Bumps into things when walking and having a conversation",
+			"strategies" : [
+				"Let your child know what is coming up. For example \"There is a tree coming up in front of you.\"",
+				"Ask your child to carry out one task at a time. For example, walking or talking or listening.",
+				"Ask your child to do one thing at a time. For example, walk or talk or listen."
+			]
+   },
+   {
+			"num" : 39,
+			"question" : "Misses objects which are obvious to you because they are different from their background and seem to 'pop out' e.g. a bright ball in the grass?",
+			"strategies" : [
+				"Do not present too many items at one time.",
+				"Space the items out.",
+				"Make objects stand out from their background. This can be done by having plain floors, walls and bed spread.",
+				"Make sure objects are brightly coloured and a different colour to their background. This can make them 'pop out'."
+			]
+   },
+   {
+			"num" : 40,
+			"note" : "Split into two, perhaps three questions in HVFQI",
+			"question" : "Becomes distressed in places with  a lot of clutter or busy environments, such as supermarket or shopping centre",
+			"strategies" : [
+				"Do not have too many bits and pieces in areas that your child uses a lot. For example, photos on the wall or mobiles in class.",
+				"Be prepared for difficult behaviour in busy places and take steps to make the situation easier. For example, give lots of advance and warnings, only go to these places for a short time  have a reward for afterwards.",
+				"Help your child to use their other senses. For example, let them listen to an I pod or MP3 player.",
+				"Give your child something to feel. This will use their sense of touch. They could use a fidget object, toy, rubber or giant paper clip.",
+				"Give your child something to suck or chew. This will use their sense of taste. You could use chewing gum, mint, lemon or an ice lolly.",
+				"Give your child something to sniff. This will use their sense of smell. You could use a hanky with some perfume on it.",
+				"Ask your child to push the trolley or carry the basket. These activities use deep muscles and can be calming.",
+				"Ask your child to help you. For example, when shopping ask them to find things, make sure they have their own job at assembly.",
+				"Let your child to take lots of breaks to move around.",
+				"Ask your child to use colours to let you know how they are feeling. i.e. green = go, amber= tiring, red = need a break.",
+				"Make sure there is a quiet area for your child to use, both at home and at school. This should be a space with very few objects in it.",
+				"Practice in smaller, quieter areas. For example a small dining room, or a small shop rather than the large school dining room or large shopping centre.",
+				"Gradually build up your child's experience of new places. For example, start by taking a trip to a small shop for one item.",
+				"Go to parties early. This will give your child time to get to know the new surroundings."
+			]
+   },
+   {
+			"num" : 41,
+			"question" : "Has difficulty recognising close relatives in real life",
+			"strategies" : [
+				"Wear clothes that make you easy to spot. For example, a bright pink top or scarf. The item of clothing must be seen from all angles. Tell your child the item of clothing you will be wearing so they know what to look for.",
+				"Teach your child to look for special marks on people that they know. For example, birthmarks or tattoos.",
+				"Practice recognising different voices with your child.",
+				"Let your child know that you are there. For example, shout your child's name.",
+				"Make sure people know your child finds it hard to recognise faces. Ask people to say hello, and who theyz are, when theyz meet your child.",
+				"Make sure your child has a buddy or friend to help them find people.",
+				"Ask your child to use a mobile phone to call or text the person they are looking for.",
+				"Ask your child to shout out the name of the person they are looking for."
+			]
+   },
+   {
+			"num" : 42,
+			"question" : "Has difficulty recognising close relatives from photographs",
+			"strategies" : [
+				"Use photos of close family and friends to practice spotting people.",
+				"Use pictures with only one person to practice identifying people.",
+				"Give your child clues. For example, \"We saw them here yesterday.\""
+			]
+   },
+   {
+			"num" : 43,
+			"question" : "May mistakenly identify strangers as people known to them",
+			"strategies" : [
+				"Give your child extra clues. For example \"It can't be your Gran because she is at home.\"",
+				"Remind your child to look again."
+			]
+   },
+   {
+			"num" : 44,
+			"question" : "Has difficulty understanding the meaning of facial expressions",
+			"strategies" : [
+				"Make sure people spending time with your child know it is difficult for them to recognise people. Give extra help and hints.",
+				"Find out if your child can tell when you are happy/ sad/ cross etc by the look on your face (facial expression). If they can recognise facial expressions try and work out the easist distance from them to do this.",
+				"Ask your child to listen carefully to the tone of voice, and words being used. This may help them to work out the mood of the person they are talking to.",
+				"Practice recognising different facial expressions with your child. i.e. Happy, sad, cross, surprised.",
+				"Use words and tone of voice that match the expression on your face. For example \"I'm happy, I'm smiling at you\". Ask every one spending time with your child to do this.",
+				"Exaggerate your voice and use expressed emotions to help your child to understand. For example, by acting very happy, very sad, very angry."
+			]
+   },
+   {
+			"num" : 45,
+			"question" : "Has difficulty naming common colours.",
+			"strategies" : [
+				"Find out if this is due to a problem with colour vision (colour blindness).",
+				"Find out if this is due to difficulty recognising words.",
+				"Practice the names of the primary colours (red, blue and yellow) using objects that your child knows well.",
+				"When your child is learning colours, link every colour with objects of the same colour (\"rose red\", \"green grass\", \"sky blue\"). This is called conceptual linkage."
+			]
+   },
+   {
+			"num" : 46,
+			"question" : "Has difficulty naming basic shapes such as squares, triangles and circles",
+			"strategies" : [
+				"When learning shape names use 3D models.",
+				"Ask your child to touch the shape and say the name.",
+				"Practice using 3 D shapes.",
+				"Ask your child to feel objects with their hands.",
+				"Ask your child to make shapes with their fingers in sand or shaving foam.",
+				"Make sure your child does not have to look for too many things at the same time.",
+				"Encourage your child to play computer games that use recognition skills."
+			]
+   },
+   {
+			"num" : 47,
+			"question" : "Has difficulty recognising familiar objects such as the family car, classroom door",
+			"strategies" : [
+				"When your child has to find the item that belongs to them from a group of similar items, mark the one that belongs to them with something easy to spot. For example,  put a plant on the doorstep of your house so your child knows which house is home, put a hanging toy on the rear windscreen of the car or a cushion on parcle shelf so your child can identify the family car, make sure there is a poster or special mark on their classroom door.",
+				"Agree a meeting point in case your child gets lost.",
+				"Ask your child to stay close to the adult they are with.",
+				"Ask your child to look at the horizon to find land marks. There fewer objects on the horizon so it may be easier for your child to spot things.",
+				"Help your child learn how to find there way around. This can be done by going a little way and then going back to where you started. Gradually build up distance and the number of left / right turns.",
+				"Try using a walkie talkie. This will let you stay in touch while letting your child get used to finding their way without help. ",
+				"Use memory games and / or music memory games to help remember routes. Make up a song for each route, the words of the song should include the land marks being passed.",
+				"Let your child lead and plan the route. Ask them to use land marks and signs that are easy to spot. "
+			]
+   },
+   {
+			"num" : 48,
+			"question" : "Has difficulty navigating familiar environments, e.g. school",
+			"strategies" : [
+				"Use brightly coloured tape to mark your child's desk, this may make it easier to find.",
+				"If your child gets lost in places they know (for example, home or school) use a few circle markers, or brightly coloured footprints on the floor, to mark important routes i.e. seat to board, seat to door, hall to bedroom."
+			]
+   },
+   {
+			"num" : 49,
+			"question" : "Has difficulty recognising an object if it is partially hidden and not fully visible, or viewed from an unusual angle",
+			"strategies" : [
+				"Make sure all items are easy to see and do not over lap.",
+				"Store items upright.",
+				"Try a raised shoe rack.",
+				"Make an organised work space for your child. Mark lines on the desk with coloured tape for a book, pencil etc. Don't keep too many things on the desk.",
+				"Make sure your child has a schoolbag with a pocket for each item/ group of items.",
+				"Try giving your child a flat pencil case with a clearly marked space for each item."
+			]
+   },
+   {
+			"num" : 50,
+			"question" : "Has difficulty recognising right and left shoes",
+			"strategies" : [
+				"Mark the shoe of your child's dominant side (right if they are right handed, left if they are left handed) with a sticker, or decorative bead or initials. This will show which one should go on first."
+			]
+   },
+   {
+			"question" : "Has difficulty recognising people, word, objects if changed in presentation style, i.e. font of text, hairstyle",
+			"strategies" : [
+				"Ask friends and family to approach your child face on.",
+				"Make sure all text given to your child is set out in the same way. i.e The same font, line spacing and colour.",
+				"Tell your child if you change the way you look. For example, a new hairstyle."
+			]
+   }
+]

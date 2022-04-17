@@ -1,0 +1,53 @@
+#! /usr/bin/perl
+use JSON::XS;
+use File::Slurp qw( read_file );
+
+my $language     = shift or die "Please provide a translation language";
+my $strategies   = read_json( 'strategies.json' );
+my $translations = {};
+
+open my $fh, '<', "strategies.$language.txt" or die "Can't find translation 'strategies.$language.txt' $!";
+while( <$fh> ) {
+	chomp;
+	next unless $_;
+	my @tokens  = split /\s+/;
+	my $qnums   = [];
+	if( $tokens[ 0 ] =~ /^\d+(?:\.\d+)?,?$/ ) {
+		do {
+			my $num = 0.0 + shift @tokens;
+			push @$qnums, $num
+		} while( $tokens[ 0 ] =~ /^\d+(?:\.\d+)?,?$/);
+	} else {
+		$qnums = [ 'all' ];
+	}
+
+	my $text = join ' ',  @tokens;
+	my $key  = join ', ', @$qnums;
+	push @{ $translations->{ $key }}, $text;
+}
+close $fh;
+
+my $lookup = {};
+foreach my $intervention (@$strategies) {
+	my $key = join( ', ', @{$intervention->{ questions }});
+	$lookup->{ $key } = $intervention;
+}
+
+foreach my $key (keys %$translations ) {
+	die "Intervention strategies do not exist for questions '$key', yet there is a translation for them! $!" unless exists $lookup->{ $key };
+	my $intervention = $lookup->{ $key };
+	$intervention->{ strategies } = $translations->{ $key };
+}
+
+my $json = new JSON::XS();
+print $json->canonical->pretty->encode( $strategies );
+
+# ============================================================
+sub read_json {
+# ============================================================
+	my $file = shift;
+	my $text = read_file( $file );
+	my $json = new JSON::XS();
+	my $data = $json->decode( $text );
+	return $data;
+}

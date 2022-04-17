@@ -1,0 +1,513 @@
+{
+   "conclusion" : "<h2>¡Gracias por tu tiempo!</h2>",
+   "questions" : [
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo tropieza con juguetes y obstáculos en el piso?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para bajar escaleras?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo se tropieza con los bordes de las aceras que están subiendo?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo se tropieza con los bordes de las aceras que bajan?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo parece 'quedarse atascado' en la cima de un tobogán / colina?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo mira hacia abajo cuando cruza los límites del piso, por ejemplo. ¿Donde el lino se encuentra con la alfombra?"
+      },
+      {
+         "follow" : {
+            "conditions" : [
+               2,
+               3,
+               4
+            ],
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "near-far"
+                  },
+                  "text" : "¿De qué lado?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Deja su hijo comida en el lado más cercano o lejano de su plato?"
+      },
+      {
+         "follow" : {
+            "conditions" : [
+               2,
+               3,
+               4
+            ],
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "left-right"
+                  },
+                  "text" : "¿De qué lado?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Deja su hijo comida en el lado derecho o izquierdo del plato?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para encontrar el comienzo de una línea cuando lee?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para encontrar la siguiente palabra cuando lee?"
+      },
+      {
+         "follow" : {
+            "conditions" : [
+               2,
+               3,
+               4
+            ],
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "left-right-both"
+                  },
+                  "text" : "¿De qué lado?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo camina frente al tráfico?"
+      },
+      {
+         "follow" : {
+            "conditions" : [
+               2,
+               3,
+               4
+            ],
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "left-right-both"
+                  },
+                  "text" : "¿De qué lado?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo choca contra los marcos de las puertas o las puertas parcialmente abiertas?"
+      },
+      {
+         "follow" : {
+            "conditions" : [
+               2,
+               3,
+               4
+            ],
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "left-right"
+                  },
+                  "text" : "¿De qué lado?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo se pierde imágenes o palabras en un lado de una página?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para ver el paisaje desde un vehículo en movimiento?"
+      },
+      {
+         "follow" : {
+            "conditions" : [
+               2,
+               3,
+               4
+            ],
+            "ups" : [
+               {
+                  "response" : {
+                     "choices" : [
+                        "Animales pequeños o niños",
+                        "Agua en movimiento",
+                        "El cursor en la pantalla de una computadora"
+                     ],
+                     "type" : "multiple-choice"
+                  },
+                  "text" : "¿Qué cosas que se mueven rápidamente tiene dificultad para ver su hijo? Puede seleccionar una o más respuestas para esta pregunta."
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para ver cosas que se mueven rápidamente, como animales pequeños o niños, agua en movimiento o el cursor en la pantalla de una computadora?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Evita su hijo mirar televisión en movimiento rápido y / o prefiere ver televisión en movimiento lento?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para atrapar una pelota?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para ver algo que se señala en la distancia?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para encontrar un amigo cercano o un pariente que esté de pie en un grupo?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para encontrar un artículo en un supermercado, por ejemplo. encontrar el cereal de desayuno que quieren?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Se pierde su hijo en lugares donde hay mucho que ver? una tienda llena de gente?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Se pierde su hijo en lugares que conoce bien? p.ej. colegio"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para ubicar una prenda de vestir en una pila de ropa?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para seleccionar un juguete elegido en una caja de juguetes?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Se sienta su hijo más cerca del televisor que unos 30 cm si se lo permite?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo considera que copiar palabras o dibujos requiere mucho tiempo y es difícil?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo al caminar se agarra a su ropa, tirando hacia abajo?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿A su hijo le resulta difícil caminar sobre un terreno irregular?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Se topa su hijo con muebles bajos en una habitación que conoce bien?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo choca con muebles bajos si se mueven en la habitación?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Se enoja su hijo si se mueven los muebles?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Explora su hijo los límites del piso (por ejemplo, lino / alfombra) con el pie antes de cruzar el límite?"
+      },
+      {
+         "follow" : {
+            "conditions" : [
+               2,
+               3,
+               4
+            ],
+            "ups" : [
+               {
+                  "response" : {
+                     "type" : "yes-no"
+                  },
+                  "text" : "¿Límites que son <i> nuevos </i> para ellos?"
+               },
+               {
+                  "response" : {
+                     "type" : "yes-no"
+                  },
+                  "text" : "¿Límites que son <i> bien conocidos </i> para ellos?"
+               }
+            ]
+         },
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Le resulta difícil a su hijo cruzar los límites interiores del piso?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo alcanza de manera incorrecta los objetos, es decir, se extiende más allá o alrededor del objeto?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo cuando toma un objeto lo agarra incorrectamente, es decir, lo pierde o lo golpea?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Le resulta difícil a su hijo concentrarse en la tarea durante más de 5 minutos?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo, después de distraerse, tiene dificultades para volver a lo que estaba haciendo?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo tropieza con cosas cuando camina y tiene una conversación?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Se le escapa su hijo objetos que son obvios para usted porque son diferentes de su entorno y parecen \"salirse\"? ¿Una bola brillante en la hierba?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Las habitaciones con mucho desorden provocan un comportamiento difícil?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Los lugares tranquilos o el campo abierto provocan un mejor comportamiento?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Es difícil el comportamiento en un supermercado o centro comercial concurrido?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo reacciona con enojo cuando otros niños inquietos lo distraen?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para reconocer a los parientes cercanos en la vida real?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para reconocer a los parientes cercanos a partir de fotografías?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Su hijo identifica erróneamente a extraños como personas que conoce?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para comprender el significado de las expresiones faciales?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para nombrar colores comunes?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para nombrar formas básicas como cuadrados, triángulos y círculos?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene su hijo dificultad para reconocer objetos familiares como el automóvil familiar?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Le resulta difícil a su hijo identificar de dónde proviene el sonido? Por ejemplo, si le llama a gritos en la casa, ¿tiene que decirle claramente en qué habitación se encuentra? voz sola?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene dificultad para jugar juegos de equipo con muchos jugadores, especialmente si hay muchos jugadores y todos se mueven?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene dificultad para identificar objetos cuando están sobre un fondo similar, como una camiseta blanca sobre una sábana blanca?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene dificultad para leer textos abarrotados en papel o en la pantalla de una computadora, pero puede hacerlo mejor si se cubre o elimina parte del texto?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene dificultad para encontrar letras en el teclado pero sabe el alfabeto?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene dificultad para reconocer un objeto si está parcialmente oculto y no es completamente visible, o si se ve desde un ángulo inusual?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "¿Tiene dificultad para reconocer los zapatos derecho e izquierdo?"
+      },
+      {
+         "response" : {
+            "type" : "likert"
+         },
+         "text" : "Tiene dificultad para reconocer personas, palabras, objetos si cambia el estilo de presentación, p. Ej. fuente de texto, peinado?"
+      }
+   ],
+   "response" : {
+      "left-right" : {
+         "affirmative" : [ 0, 1 ],
+         "choices" : [
+            "Izquierda",
+            "Derecha"
+         ]
+      },
+      "left-right-both" : {
+         "affirmative" : [ 0, 1, 2 ],
+         "choices" : [
+            "Izquierda",
+            "Derecha",
+            "Ambas cosas"
+         ]
+      },
+      "likert" : {
+         "affirmative" : [ 2, 3, 4 ],
+         "choices" : [
+            "Nunca",
+            "Casi nunca",
+            "Algunas veces",
+            "A menudo",
+            "Siempre",
+            "No corresponde, demasiado joven",
+            "No corresponde, demasiado antiguo",
+            "No corresponde, condición física"
+         ]
+      },
+      "near-far" : {
+         "affirmative" : [ 0, 1 ],
+         "choices" : [
+            "Cerca",
+            "Lejos"
+         ]
+      },
+      "yes-no" : {
+         "affirmative" : [ 0 ],
+         "choices" : [
+            "Sí",
+            "No" 
+         ]
+      }
+   }
+}

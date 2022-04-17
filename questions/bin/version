@@ -1,0 +1,78 @@
+#! /usr/bin/perl
+
+# -------------------------------------------------------------------------------
+# Git commit IDs vary over time; we need a versioning system that varies over
+# changes in survey contents AND time.
+#
+# This tool tracks versioning of survey based on survey contents. This may be
+# combined with "git log -S <search> --source --all" to find the first commit
+# where a particular survey question changed.
+#
+# Example:
+#
+# $ git log -S 'e57d1247677a0cc45d5c79950eb8e87e' --source --all
+#
+# -------------------------------------------------------------------------------
+
+use Digest::SHA1 qw( sha1_hex );
+use File::Slurp qw( read_file );
+use JSON::XS;
+
+my $path = shift || './';
+my $json = new JSON::XS();
+my $md5  = `which md5` or die "'md5' command not found $!"; chomp $md5;
+
+my $manifest = read_manifest( $path );
+my @files    = ();
+my @versions = ();
+foreach my $i ( 0 .. $#{$manifest->{ files }}) {
+	my $file = $manifest->{ files }[ $i ]{ file };
+	next unless -e $file;
+	my $version = version( $file );
+	$manifest->{ files }[ $i ]{ md5 } = $version;
+	push @files, $file;
+	push @versions, $version;
+}
+
+my $version  = version( join( '', @versions ), 'string' );
+$manifest->{ md5 } = $version;
+
+write_manifest( $path, $manifest );
+
+# ============================================================
+sub read_manifest {
+# ============================================================
+	my $path = shift;
+	my $file = "$path/manifest.json";
+
+	die "Can't find '$file' $!" unless -e $file;
+
+	my $text = read_file( $file );
+	my $data = $json->decode( $text );
+	return $data;
+}
+
+# ============================================================
+sub write_manifest {
+# ============================================================
+	my $path     = shift;
+	my $manifest = shift;
+	my $file     = "$path/manifest.json";
+
+	open my $fh, '>', $file or die "Can't write to '$file' $!";
+	print $fh $json->canonical->pretty->encode( $manifest );
+	close $fh;
+}
+
+# ============================================================
+sub version {
+# ============================================================
+	my $file    = shift;
+	my $string  = shift || 0;
+	my $version = undef;
+
+	if( -e $file )   { $version = `$md5 -q $file`; } 
+	elsif( $string ) { $version = `$md5 -q -s $file`; }
+	chomp $version;
+	return $version
+}
